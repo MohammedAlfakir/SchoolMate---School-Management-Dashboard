@@ -1,0 +1,1 @@
+SchoolMate is a modern school management dashboard built with Next.js and Tailwind CSS. Designed for admins, teachers, students, and parents, it features responsive tables, animated charts, and a user-friendly UI.
